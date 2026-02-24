@@ -48,7 +48,7 @@ course_id (Foreign Key → Courses table)
 enrollment_date
 
 This structure ensures proper relational mapping using primary and foreign keys.
----
+
 ## - Concepts Practiced
 
 In this project, I practiced:
@@ -77,7 +77,7 @@ IN, BETWEEN, and LIKE
 
 LIMIT clause
 
-##Aggregate functions:
+## Aggregate functions:
 
 COUNT()
 
@@ -88,7 +88,7 @@ AVG()
 MIN()
 
 MAX()
----
+
 ## What I Learned
 
 Through this project, I improved my understanding of:
@@ -102,13 +102,13 @@ Filtering and analyzing data using SQL
 Preventing invalid data using constraints
 
 Handling and debugging common SQL errors
----
+
 ## Tools Used
 
 MySQL
 
 SQL Command Line / SQL Editor
----
+
 ## Conclusion
 
 This project helped me strengthen my foundation in SQL and gain confidence in designing structured databases with proper relationships and constraints.
